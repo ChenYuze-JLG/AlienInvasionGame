@@ -2,13 +2,1120 @@
 branches: {
   }
 fileChange:
-  /README.en.md:
-    newFile: !uuid '0f01f8fb38741f0d93d943b67a7c79de4c93b87e'
+  /.idea:
+    newFile: !uuid '10154626f998e99098725c3bf015f799abd42c13'
     oldFile: null
-  /README.md:
-    newFile: !uuid '70c95dafd1dd68788cd4b8d2a83b198b164622cd'
+  /.idea/dictionaries:
+    newFile: !uuid 'ab2581f5d53e60eb3571c96322d763bcb4d6d9c2'
     oldFile: null
-gitCommitId: !uuid 'f162009bca1d271e9792f6b3f51a95d38bac6ccb'
+  /.idea/dictionaries/.xml:
+    newFile: !uuid '8f29f8cb43c4053b3481f160be1b430b16324e4a'
+    oldFile: null
+  /.idea/encodings.xml:
+    newFile: !uuid 'f13fa3379a350e2d24b712c4f3d5a505c8fd586b'
+    oldFile: null
+  /.idea/misc.xml:
+    newFile: !uuid 'f1e88b4dc7fd16d70f14ce20d2a586163438db1e'
+    oldFile: null
+  /.idea/modules.xml:
+    newFile: !uuid '3995327ec0b09f5db2099936f183027f6a40d756'
+    oldFile: null
+  /.idea/pygame1.iml:
+    newFile: !uuid 'e7c5b03be21fbfa322c5f3bd59e90a2d425f4fec'
+    oldFile: null
+  /.idea/workspace.xml:
+    newFile: !uuid 'a38ba654db8cf0ef55e31604baf57d3d00571c34'
+    oldFile: null
+  /alien.py:
+    newFile: !uuid 'c785fe88cee4af00ae0d48bcd4c21414afacbda2'
+    oldFile: null
+  /alien_invasion.py:
+    newFile: !uuid '4faba7f5bac369961ce71c510e336cc41b575b58'
+    oldFile: null
+  /alien_invasion.spec:
+    newFile: !uuid '4c36c9d17f0a2d696c4c51acbdeea8d3ce36467b'
+    oldFile: null
+  /build:
+    newFile: !uuid '7b2360ad382a0c1cac86279b6a80c2573a137bb3'
+    oldFile: null
+  /build/alien_invasion:
+    newFile: !uuid 'c35c32ccb2994c3da2dce1243ba706158c7ad6b6'
+    oldFile: null
+  /build/alien_invasion/Analysis-00.toc:
+    newFile: !uuid '840c770ed2bac23e052c3ad4b875a4ff71e4ff8b'
+    oldFile: null
+  /build/alien_invasion/COLLECT-00.toc:
+    newFile: !uuid 'a8da94eec9e0491fdc7f5b3e6e2fe700f1a9f878'
+    oldFile: null
+  /build/alien_invasion/EXE-00.toc:
+    newFile: !uuid '8a578e2533151ffc8c1df96dae08140445f6d083'
+    oldFile: null
+  /build/alien_invasion/PKG-00.pkg:
+    newFile: !uuid 'febe1fb104b2ad66a711fc161f1520bafca7004f'
+    oldFile: null
+  /build/alien_invasion/PKG-00.toc:
+    newFile: !uuid '491b30d186750a59ae61168bf1a6e5b3f74a2b69'
+    oldFile: null
+  /build/alien_invasion/PYZ-00.pyz:
+    newFile: !uuid '9728c5ca9571be100ee318c090ba4e9967d43d9a'
+    oldFile: null
+  /build/alien_invasion/PYZ-00.toc:
+    newFile: !uuid '8fc41eea2cfba504671ca8a8e525ac32fa139ef0'
+    oldFile: null
+  /build/alien_invasion/alien_invasion.exe:
+    newFile: !uuid 'fdbb0c30cd7389159d436bbd1188a29ece44437d'
+    oldFile: null
+  /build/alien_invasion/alien_invasion.exe.manifest:
+    newFile: !uuid '80cc7c1a1d7afbeb2de03f763d72b52164471a6d'
+    oldFile: null
+  /build/alien_invasion/base_library.zip:
+    newFile: !uuid '524646c568264c8cf2eb3cf6832124f8d451b975'
+    oldFile: null
+  /build/alien_invasion/warn-alien_invasion.txt:
+    newFile: !uuid 'ddbc24e24ec4786dca401f79eaf831d8daf551df'
+    oldFile: null
+  /build/alien_invasion/xref-alien_invasion.html:
+    newFile: !uuid '80414765fe87910c9245585c9a24ea135cb8f6e0'
+    oldFile: null
+  /bullet.py:
+    newFile: !uuid 'a3043506450a829735bfd675daf231290deea485'
+    oldFile: null
+  /button.py:
+    newFile: !uuid '20df670d71485a0b016ae390410ad56a26133cfa'
+    oldFile: null
+  /dist:
+    newFile: !uuid 'f5033335d00728fc64525f87e41bfe585ac13b61'
+    oldFile: null
+  /dist/alien_invasion:
+    newFile: !uuid '5b73f76885b9dcf420dfd0193d4c7cc759ae4139'
+    oldFile: null
+  /dist/alien_invasion/VCRUNTIME140.dll:
+    newFile: !uuid '1ea25774238a7c37615d3270365955566c09009d'
+    oldFile: null
+  /dist/alien_invasion/_bz2.pyd:
+    newFile: !uuid 'e210726d46ba69efdde9a854503e1f3197a04d65'
+    oldFile: null
+  /dist/alien_invasion/_hashlib.pyd:
+    newFile: !uuid '91f78c42a357d25afdfd8c29f00a1456c71a792f'
+    oldFile: null
+  /dist/alien_invasion/_lzma.pyd:
+    newFile: !uuid 'a5f02736f4a45a9f9ec8050044998223542075db'
+    oldFile: null
+  /dist/alien_invasion/_socket.pyd:
+    newFile: !uuid '610337aaacbac910400ff3505e527788aac0c69b'
+    oldFile: null
+  /dist/alien_invasion/_ssl.pyd:
+    newFile: !uuid '3cfb8aefb5e4d6cd58ba0f63b522e596f45a22a3'
+    oldFile: null
+  /dist/alien_invasion/alien_invasion.exe:
+    newFile: !uuid 'fdbb0c30cd7389159d436bbd1188a29ece44437d'
+    oldFile: null
+  /dist/alien_invasion/alien_invasion.exe.manifest:
+    newFile: !uuid '80cc7c1a1d7afbeb2de03f763d72b52164471a6d'
+    oldFile: null
+  /dist/alien_invasion/base_library.zip:
+    newFile: !uuid '524646c568264c8cf2eb3cf6832124f8d451b975'
+    oldFile: null
+  /dist/alien_invasion/images:
+    newFile: !uuid 'b092cc12f61d771f520ffed4fa8b25813694f027'
+    oldFile: null
+  /dist/alien_invasion/images/alien.png:
+    newFile: !uuid '458695600f53bddd5c6552c47b3d8ad1b64f6f6c'
+    oldFile: null
+  /dist/alien_invasion/images/ship.bmp:
+    newFile: !uuid 'a140654143739b4d39331a37ed52ed6cf721491a'
+    oldFile: null
+  /dist/alien_invasion/libcrypto-1_1-x64.dll:
+    newFile: !uuid '14a26a7ae86d2b30d41698f9df861069f884b8df'
+    oldFile: null
+  /dist/alien_invasion/libssl-1_1-x64.dll:
+    newFile: !uuid '710adc454dd57bf9c51068d1f2b8a3b8e45f41d5'
+    oldFile: null
+  /dist/alien_invasion/pyexpat.pyd:
+    newFile: !uuid '2779096fe95484fd0babd7f91d7e7593c82a9d4d'
+    oldFile: null
+  /dist/alien_invasion/pygame:
+    newFile: !uuid '47dc2451a232bdb7854083b233823a4de6fc184c'
+    oldFile: null
+  /dist/alien_invasion/pygame/LGPL:
+    newFile: !uuid 'b1e3f5a2638797271cbc9b91b856c05ed6942c8f'
+    oldFile: null
+  /dist/alien_invasion/pygame/SDL.dll:
+    newFile: !uuid 'c82f905729d469784aafbad668448fc0869fa91b'
+    oldFile: null
+  /dist/alien_invasion/pygame/SDL_image.dll:
+    newFile: !uuid '0027cc714d28552c0578fd36728393d1dd8cdc42'
+    oldFile: null
+  /dist/alien_invasion/pygame/SDL_mixer.dll:
+    newFile: !uuid '67979bca66a52a0c2af24aa1764a4e0d18cf0e72'
+    oldFile: null
+  /dist/alien_invasion/pygame/SDL_ttf.dll:
+    newFile: !uuid 'a5bdb4ac8fadc69c4a15286c3680ac29e30ec667'
+    oldFile: null
+  /dist/alien_invasion/pygame/__init__.py:
+    newFile: !uuid '9523b9d20b929f9dd75823a4ded0e96d35d899e7'
+    oldFile: null
+  /dist/alien_invasion/pygame/_camera_opencv_highgui.py:
+    newFile: !uuid '6acf190cb7111d28e3d05f53f9218e47c1c9ab08'
+    oldFile: null
+  /dist/alien_invasion/pygame/_camera_vidcapture.py:
+    newFile: !uuid '7ee77b6e40fc611638bb58499207e9cdc2b42bdb'
+    oldFile: null
+  /dist/alien_invasion/pygame/_dummybackend.py:
+    newFile: !uuid '49b3e30acfad852309e2810c4c6f8a2de66ab7a5'
+    oldFile: null
+  /dist/alien_invasion/pygame/_freetype.cp37-win_amd64.pyd:
+    newFile: !uuid '7e4c13a91f88a12e6de7b8bbc61ebab7f78b6a94'
+    oldFile: null
+  /dist/alien_invasion/pygame/_numpysndarray.py:
+    newFile: !uuid 'f531a9a4d7d276d69bd157d4e89770792b5f508a'
+    oldFile: null
+  /dist/alien_invasion/pygame/_numpysurfarray.py:
+    newFile: !uuid 'e6cf3d8b7784eb4e24b1fefdfc11c15ee2a38e28'
+    oldFile: null
+  /dist/alien_invasion/pygame/base.cp37-win_amd64.pyd:
+    newFile: !uuid 'f5c3300046621a7b4e9a4bce0d58b3d45aafa128'
+    oldFile: null
+  /dist/alien_invasion/pygame/bufferproxy.cp37-win_amd64.pyd:
+    newFile: !uuid '9d3fae85d42515d0a44aa3f43a322c5c2c021f9b'
+    oldFile: null
+  /dist/alien_invasion/pygame/camera.py:
+    newFile: !uuid '1bc3b51e80368328d102f96f7ee1114237b6f11a'
+    oldFile: null
+  /dist/alien_invasion/pygame/cdrom.cp37-win_amd64.pyd:
+    newFile: !uuid 'f7689e8adc79f78b480a1760968932dd10c6ec74'
+    oldFile: null
+  /dist/alien_invasion/pygame/color.cp37-win_amd64.pyd:
+    newFile: !uuid 'cb2daa97712d7f25f165c36fc4fd442cffed7d4e'
+    oldFile: null
+  /dist/alien_invasion/pygame/colordict.py:
+    newFile: !uuid '52b1166ab0bf4016e92f9d659c90fe9ac86ceebc'
+    oldFile: null
+  /dist/alien_invasion/pygame/compat.py:
+    newFile: !uuid 'de1ea9ebc63271b6d0e3f9b00c7aa377a99eac81'
+    oldFile: null
+  /dist/alien_invasion/pygame/constants.cp37-win_amd64.pyd:
+    newFile: !uuid '6bfd3e71db6e46b3be6a142522b868b79d77e2a3'
+    oldFile: null
+  /dist/alien_invasion/pygame/cursors.py:
+    newFile: !uuid '64e968f1311062a476c5e7b3c464766099023962'
+    oldFile: null
+  /dist/alien_invasion/pygame/display.cp37-win_amd64.pyd:
+    newFile: !uuid '4e3a66810607981ae6ed7ab8e4dd9db7aee2d24e'
+    oldFile: null
+  /dist/alien_invasion/pygame/docs:
+    newFile: !uuid '0b542cfc188784a6013af07390d8d43ff466fabd'
+    oldFile: null
+  /dist/alien_invasion/pygame/docs/__init__.py:
+    newFile: !uuid 'd15632f8e8b59e4f422d4f6d4eb90da462b38eec'
+    oldFile: null
+  /dist/alien_invasion/pygame/docs/__main__.py:
+    newFile: !uuid '5fa3d2d15f5a32928b6b506d3338cf0710675bf0'
+    oldFile: null
+  /dist/alien_invasion/pygame/docs/logos.html:
+    newFile: !uuid '0c0824925ca450c59215e052b550c22df6db2108'
+    oldFile: null
+  /dist/alien_invasion/pygame/docs/pygame_logo.gif:
+    newFile: !uuid '63d2e77273839ba1a50bb5d146a1323c4dce1b28'
+    oldFile: null
+  /dist/alien_invasion/pygame/docs/pygame_powered.gif:
+    newFile: !uuid '5a2bb5f96dc72a4feac9eef8bbef158ed8f4332c'
+    oldFile: null
+  /dist/alien_invasion/pygame/docs/pygame_small.gif:
+    newFile: !uuid '4916dbf7a87fabbca307032243439db6243f315c'
+    oldFile: null
+  /dist/alien_invasion/pygame/docs/pygame_tiny.gif:
+    newFile: !uuid 'f9aa5177cb613b3b4858b90b1e9dccd28d377125'
+    oldFile: null
+  /dist/alien_invasion/pygame/docs/ref:
+    newFile: !uuid 'e45ae24ca85d8eb37dbe0e854ea019a3c3652a42'
+    oldFile: null
+  /dist/alien_invasion/pygame/docs/ref/docscomments.json:
+    newFile: !uuid '09a646a209872e5bc1e6d27e55b6395c50558dd4'
+    oldFile: null
+  /dist/alien_invasion/pygame/draw.cp37-win_amd64.pyd:
+    newFile: !uuid '11590b0aebfe2674938b9622394eecef3598dce5'
+    oldFile: null
+  /dist/alien_invasion/pygame/event.cp37-win_amd64.pyd:
+    newFile: !uuid '8604e23225025cf5e71149de28378db1820330d9'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples:
+    newFile: !uuid 'f7bed2dd13069d7e9404dca2cdd720a0abd6effd'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/__init__.py:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/aacircle.py:
+    newFile: !uuid 'a37751ca0fd82cf74d698bd01f1e21004628bd9e'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/aliens.py:
+    newFile: !uuid '4f08e8a9fdd5344e4c3af03b73d4d8e82e22b8fc'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/arraydemo.py:
+    newFile: !uuid '9341db6b3a1b74320813d594d1d4e7b2789cafd2'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/blend_fill.py:
+    newFile: !uuid '822fa82661f4b39d29b65b4dd4e205b4f11908a8'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/blit_blends.py:
+    newFile: !uuid '33fe214ba6bd306f1d6e2f103a57baced11de154'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/camera.py:
+    newFile: !uuid '9967d81df880f8449cf26da11119aa836ba5efff'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/chimp.py:
+    newFile: !uuid '51b9e0a7eadcc0a48e2f76817f33e78a0cfcd54f'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/cursors.py:
+    newFile: !uuid '2bcc9e4606521d53d19333d0af3d22b2b688672b'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data:
+    newFile: !uuid 'e522e0132038cf40571d21e6b0bc5d1fb64d58cc'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/alien1.gif:
+    newFile: !uuid 'c4497e08d8b9da563731f96a3545cbc5bbbe5f2c'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/alien1.jpg:
+    newFile: !uuid '6d110a45f6fd8a252c7650ecd52e6922add14bcb'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/alien1.png:
+    newFile: !uuid '471d6a440621835ca48442f4cfed1b1b581ec74d'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/alien2.gif:
+    newFile: !uuid '8df05a34e4f880f4897d7d5ad9d0e5036348b78a'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/alien2.png:
+    newFile: !uuid 'aef5ace8e06ae08393191ee078788e83059f0be3'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/alien3.gif:
+    newFile: !uuid '5305d419431cfa2718a7dcf0f6ed9970cbf6fc9f'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/alien3.png:
+    newFile: !uuid '90d0f7ce216b1e7466d7ed5d485ee7a45d15afd6'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/arraydemo.bmp:
+    newFile: !uuid 'ad96338e7b4e4a853aa2d91b44ca5f90cf5d268e'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/asprite.bmp:
+    newFile: !uuid 'cc96356acb521c7f1518acdb2a3b5d59b8a061aa'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/background.gif:
+    newFile: !uuid '5041ce664066105505f8e427040f96eefe34f96b'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/blue.mpg:
+    newFile: !uuid '60dcecaf6fb7e27892a8e3bfe73d564e1b53672a'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/bomb.gif:
+    newFile: !uuid '02271c38f105f143d36f74921761d68b018b2c74'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/boom.wav:
+    newFile: !uuid 'f19126a08228734b1ee412c059cfbd70c7b15687'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/brick.png:
+    newFile: !uuid 'cfe37a39b7545bac251f07e7373e645b6e2ad44b'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/car_door.wav:
+    newFile: !uuid '60acf9e9fb18537bd18234613f46c3bdc6261b74'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/chimp.bmp:
+    newFile: !uuid 'ec5f88a4dc86bae54d94350c384bf8c33320b71d'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/city.png:
+    newFile: !uuid '202da5cf1a069cad472feb9833fb81974f09c2bc'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/danger.gif:
+    newFile: !uuid '106d69c0fe6a1e450ae00658748b80a436018ac9'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/explosion1.gif:
+    newFile: !uuid 'fabec16007021714ad0b686a64baff43b9c47bbb'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/fist.bmp:
+    newFile: !uuid 'a75f12e656b5a7eeb73363135b581c4e5c1742ec'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/house_lo.mp3:
+    newFile: !uuid '4c26994a93f5a499d18ca639ad65e4cfcdddfbba'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/house_lo.ogg:
+    newFile: !uuid 'e050848e3fa587ca0b5b61cab6edafc1e285c0fb'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/house_lo.wav:
+    newFile: !uuid '68a96b869380fd9da83e28da23c847bd03ff414e'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/liquid.bmp:
+    newFile: !uuid 'c4f12ebb708473ab81cb08621415c366d30a87da'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/midikeys.png:
+    newFile: !uuid '74ecb86b8c4d75a7cfacfc9361264f317d1122ce'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/oldplayer.gif:
+    newFile: !uuid '93906abad21b07a50dc287744f0dd7c53eba60b3'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/player1.gif:
+    newFile: !uuid '6c4eda74e953b1647cf7734737aebdbede177510'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/punch.wav:
+    newFile: !uuid 'aa3f56cbc2dad302a456e1de5b0728ee8fb737bb'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/sans.ttf:
+    newFile: !uuid '09fac2ff94ae92033266d8e021c22c382bea19b5'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/secosmic_lo.wav:
+    newFile: !uuid '867f802b988a377c0cbeac4dce096d02d6df9ae1'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/shot.gif:
+    newFile: !uuid '18de52801161c100ab0cab19e2160926ed2adde8'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/static.png:
+    newFile: !uuid 'fb3b0572ac41b9ad474d0f33efd38c638ef3ee1b'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/whiff.wav:
+    newFile: !uuid '3954efac71fd426ea235cc7414cff7239ad2e34e'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/data/yuv_1.pgm:
+    newFile: !uuid 'a59b3839cd1c60f2f2ebf0b92b4be032b11d9209'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/eventlist.py:
+    newFile: !uuid '7c31836313b789a78d5369dcfa4b8f13eaf4d6ff'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/fastevents.py:
+    newFile: !uuid '07ff7933fe59ccf1fa1179451080a58700d05d09'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/fonty.py:
+    newFile: !uuid 'bdd77f1608d30c8a5bc2efd9a922d50eb1a9703c'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/freetype_misc.py:
+    newFile: !uuid '21c5f70a8ab862c736c054358bba1e9a5e0dc3be'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/glcube.py:
+    newFile: !uuid 'eadd94af8a1c52021317fff9d4ffb7541396ad40'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/headless_no_windows_needed.py:
+    newFile: !uuid 'ac39662cda3e402a4baa2b98d6146756b6231687'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/liquid.py:
+    newFile: !uuid '6bfad0d6dee24a24794ab50253fc3050fed872f8'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx:
+    newFile: !uuid 'ea34ce7afb140c58d600084a428be4e4ee120c8f'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx/aliens_app_example:
+    newFile: !uuid '0e9afdecc02db689b6ea26d7d0c5a160a7c72a2a'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx/aliens_app_example/English.lproj:
+    newFile: !uuid 'a7430ac1d473aa7886e9234e8916263821585d96'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib:
+    newFile: !uuid '3a61fdba943f937093e1675a2304f41a92bdc000'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/JavaCompiling.plist:
+    newFile: !uuid '6e7346ac7237f8d8686a52d1880dac77ff783e3d'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/_MainMenu_EOArchive_English.java:
+    newFile: !uuid '558bc784bd82419b08ef205fe5f2196f6d4f98cf'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/classes.nib:
+    newFile: !uuid '1c6603e878c15820797def1e893a6fbc2bc080fd'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/info.nib:
+    newFile: !uuid '7d939051732b74d0c9f4d55d2053524f9fbb4fbe'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/keyedobjects.nib:
+    newFile: !uuid '8ef64c01b9601afcbef17deafd8a64ce0a99dd93'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx/aliens_app_example/English.lproj/aliens.icns:
+    newFile: !uuid '6dbe10202d6f6c04a95475c5b51eb93aa81bb6f4'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx/aliens_app_example/README.txt:
+    newFile: !uuid '29573e6929ac25047904bcb08e561a149dd446b6'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx/aliens_app_example/aliens.py:
+    newFile: !uuid '5a23e4180ae289bfeea624d6b5e2896839545778'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx/aliens_app_example/setup.py:
+    newFile: !uuid '4c45283e17465f1742cfd83cffc17d5046dc13ea'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/macosx/macfont.py:
+    newFile: !uuid 'cce23ce7399c4bb4d6e4dfed065f535812ad9193'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/mask.py:
+    newFile: !uuid '209c35d56f6731fa8d05d2e3dffcd091e81418a9'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/midi.py:
+    newFile: !uuid '41d8e5b09fcadd7e291f0f178539878b26e8034a'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/moveit.py:
+    newFile: !uuid '194cd12423bac8d465b81b59b6b2ae5e9da0d63b'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/oldalien.py:
+    newFile: !uuid 'd1f6d9fbbb422982c46f1905ea6ee981907c6bb4'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/overlay.py:
+    newFile: !uuid '8329071f66bcece321268d2d9f13b958ad5ae1aa'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/pixelarray.py:
+    newFile: !uuid '3092b188b0009894a48fbd1be65c66a95d9a7504'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/playmus.py:
+    newFile: !uuid '4b4e46da9cb0499a2ca28be1156d54258c29dab7'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/prevent_display_stretching.py:
+    newFile: !uuid '9e728a676dcc43d6e66ca601a37ceb3540b1ea58'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/scaletest.py:
+    newFile: !uuid 'a0a564a5e9c467c97db5e36ee65eb4d0abb6ceb7'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/scrap_clipboard.py:
+    newFile: !uuid '0fc6be98d56b6cf49ee131753d97ab9f28943375'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/scroll.py:
+    newFile: !uuid '1d4a9d6f93f057204b0751b424be7d54ea1f91d0'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/sound.py:
+    newFile: !uuid '6fa32f9c50c12b193df89d00234aa786cbf6fb7b'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/sound_array_demos.py:
+    newFile: !uuid '142ed7b7607a9e15021d9895eb1e5efa4c109bef'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/stars.py:
+    newFile: !uuid '22e5ef69bd93355755b0084b74da42bc88797a46'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/testsprite.py:
+    newFile: !uuid '123c0c11790aa9995906efa77902b0f6db7a5eea'
+    oldFile: null
+  /dist/alien_invasion/pygame/examples/vgrade.py:
+    newFile: !uuid 'ff0a6b3aa8164e3b0da3162004767cead82a3566'
+    oldFile: null
+  /dist/alien_invasion/pygame/fastevent.cp37-win_amd64.pyd:
+    newFile: !uuid 'eecb946832d355b8011e3186c13f468403aae8a4'
+    oldFile: null
+  /dist/alien_invasion/pygame/font.cp37-win_amd64.pyd:
+    newFile: !uuid 'f3a2e7950085d7f48884e36fb7ea440544173e0f'
+    oldFile: null
+  /dist/alien_invasion/pygame/freesansbold.ttf:
+    newFile: !uuid 'a98562fc1a89075f2218a2dbf2c08785237fab90'
+    oldFile: null
+  /dist/alien_invasion/pygame/freetype.py:
+    newFile: !uuid 'b635d65f6a1caef479a10659a6bc1ce2beaf939f'
+    oldFile: null
+  /dist/alien_invasion/pygame/ftfont.py:
+    newFile: !uuid '1b3325587d5523568937e6fb881b9e9b09a705be'
+    oldFile: null
+  /dist/alien_invasion/pygame/gfxdraw.cp37-win_amd64.pyd:
+    newFile: !uuid '1ff53f5a009408573dc15697463d775527e03646'
+    oldFile: null
+  /dist/alien_invasion/pygame/gp2x:
+    newFile: !uuid '96665f4669e374b0c5f02c0b2eb3b29471f6004b'
+    oldFile: null
+  /dist/alien_invasion/pygame/gp2x/__init__.py:
+    newFile: !uuid 'cb298e92154c64590b96d59992fb4067a86c74c0'
+    oldFile: null
+  /dist/alien_invasion/pygame/gp2x/constants.py:
+    newFile: !uuid '6dd45087af6688cc58dca9733487ada5fe7987a0'
+    oldFile: null
+  /dist/alien_invasion/pygame/gp2x/locals.py:
+    newFile: !uuid '4d5670a34f5075c461c06304f1209a2daec1dda0'
+    oldFile: null
+  /dist/alien_invasion/pygame/image.cp37-win_amd64.pyd:
+    newFile: !uuid 'a27700cb3e7752843172fe7f0f2b45dafabb9874'
+    oldFile: null
+  /dist/alien_invasion/pygame/imageext.cp37-win_amd64.pyd:
+    newFile: !uuid '7d1795f8914a84f4bb497b629938a22deab0d4ca'
+    oldFile: null
+  /dist/alien_invasion/pygame/install.html:
+    newFile: !uuid 'd71cf3d77d372c74c9de8fca74e0fdb7e05ffc5b'
+    oldFile: null
+  /dist/alien_invasion/pygame/joystick.cp37-win_amd64.pyd:
+    newFile: !uuid '39d6bc68927ec3a7d46b659b639841f71ded46a0'
+    oldFile: null
+  /dist/alien_invasion/pygame/key.cp37-win_amd64.pyd:
+    newFile: !uuid '03fe8680302b63d48622172766fa792710291785'
+    oldFile: null
+  /dist/alien_invasion/pygame/libfreetype-6.dll:
+    newFile: !uuid 'a6e5f74f2a9b3dbb8f6675d1400fd487735807ad'
+    oldFile: null
+  /dist/alien_invasion/pygame/libgcc_s_sjlj-1.dll:
+    newFile: !uuid '5df3238f92a4e60595d8758740fc6fada884d7c4'
+    oldFile: null
+  /dist/alien_invasion/pygame/libjpeg-8.dll:
+    newFile: !uuid '26fda46a106653fc2d0c082f417109600f24dbf2'
+    oldFile: null
+  /dist/alien_invasion/pygame/libmpg123-0.dll:
+    newFile: !uuid '6eff5e6150918da30916ff3e60b031e2ad8a60ae'
+    oldFile: null
+  /dist/alien_invasion/pygame/libogg-0.dll:
+    newFile: !uuid '9466d9f0430a3920afaf8f88627bed150698e796'
+    oldFile: null
+  /dist/alien_invasion/pygame/libpng16-16.dll:
+    newFile: !uuid '4dbd22b430360125da76fe9a9b2023b350090487'
+    oldFile: null
+  /dist/alien_invasion/pygame/libstdc++-6.dll:
+    newFile: !uuid 'bdaa9cfdcda6b0328b3b94745377d90817410e2c'
+    oldFile: null
+  /dist/alien_invasion/pygame/libtiff-5.dll:
+    newFile: !uuid '67ebfb019ac2c3f17b152e116a47a82983f2c7bc'
+    oldFile: null
+  /dist/alien_invasion/pygame/libvorbis-0.dll:
+    newFile: !uuid 'e73d89757cfccdc1c6dfbc36bd65bc4679dfc235'
+    oldFile: null
+  /dist/alien_invasion/pygame/libvorbisfile-3.dll:
+    newFile: !uuid '2eeaa3e200104dfa6d428491c02c3d6460618c42'
+    oldFile: null
+  /dist/alien_invasion/pygame/libwebp-5.dll:
+    newFile: !uuid 'd9bdbbf96e3e95f9d9f987f0314a11bfb6117635'
+    oldFile: null
+  /dist/alien_invasion/pygame/locals.py:
+    newFile: !uuid '9b1f2fba6bfeb7027e51b2c615c01010294cdcd9'
+    oldFile: null
+  /dist/alien_invasion/pygame/macosx.py:
+    newFile: !uuid 'dfa35fb08c5f6f22ff3b162a8a5718c19db6fb41'
+    oldFile: null
+  /dist/alien_invasion/pygame/mask.cp37-win_amd64.pyd:
+    newFile: !uuid 'dced9ca20ab967a66181a3cc1e03cb5b118be152'
+    oldFile: null
+  /dist/alien_invasion/pygame/math.cp37-win_amd64.pyd:
+    newFile: !uuid '6f61dc8ca51cdfbdfebe124b480ca7daef4a7244'
+    oldFile: null
+  /dist/alien_invasion/pygame/midi.py:
+    newFile: !uuid 'c6e661918b00f07f62f892567df430b32dd188fd'
+    oldFile: null
+  /dist/alien_invasion/pygame/mixer.cp37-win_amd64.pyd:
+    newFile: !uuid '5158217df90c84f511aa3fdcc06dbc038dd00a4c'
+    oldFile: null
+  /dist/alien_invasion/pygame/mixer_music.cp37-win_amd64.pyd:
+    newFile: !uuid 'c5681fa5e70f021d4e8dd2e017005b0acef0615b'
+    oldFile: null
+  /dist/alien_invasion/pygame/mouse.cp37-win_amd64.pyd:
+    newFile: !uuid '6668c5e75c9526db6962a33bb0e247e488a5a461'
+    oldFile: null
+  /dist/alien_invasion/pygame/newbuffer.cp37-win_amd64.pyd:
+    newFile: !uuid '94140f3bc0c15e1d7f839c444222263586f2283b'
+    oldFile: null
+  /dist/alien_invasion/pygame/overlay.cp37-win_amd64.pyd:
+    newFile: !uuid '41e88fb66efcdcc68f45c508baf51f44be2e9a73'
+    oldFile: null
+  /dist/alien_invasion/pygame/pixelarray.cp37-win_amd64.pyd:
+    newFile: !uuid '17ed73cc828215923843bf3d56bf1c46b2357df7'
+    oldFile: null
+  /dist/alien_invasion/pygame/pixelcopy.cp37-win_amd64.pyd:
+    newFile: !uuid 'de215bc05873309a1f3a0efcb71a359bbd23f7b1'
+    oldFile: null
+  /dist/alien_invasion/pygame/pkgdata.py:
+    newFile: !uuid '25ad64ac0da4c2753bc0f589490e15fe924551c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/portmidi.dll:
+    newFile: !uuid 'cc4361c30b2d5abd24c7ff5edf3fb5e070d55616'
+    oldFile: null
+  /dist/alien_invasion/pygame/pygame.ico:
+    newFile: !uuid '06f699e096bffbd4c09e4fc9c7af498c97d56a49'
+    oldFile: null
+  /dist/alien_invasion/pygame/pygame_icon.bmp:
+    newFile: !uuid '74aea77d93a8254dd1ac041e3f425f096a93f1dc'
+    oldFile: null
+  /dist/alien_invasion/pygame/pygame_icon.icns:
+    newFile: !uuid '2610a8d7dcdd48e07954c4eb6c165fa15c1af2d9'
+    oldFile: null
+  /dist/alien_invasion/pygame/pygame_icon.svg:
+    newFile: !uuid 'bbee79dba72358b625302599fdaf1bd0b5e19978'
+    oldFile: null
+  /dist/alien_invasion/pygame/pygame_icon.tiff:
+    newFile: !uuid 'e7791433dc8ad319af932b29cc01abffd37d60ba'
+    oldFile: null
+  /dist/alien_invasion/pygame/pypm.cp37-win_amd64.pyd:
+    newFile: !uuid '3dce910de84a676c46edec8f02ec5127e424f529'
+    oldFile: null
+  /dist/alien_invasion/pygame/readme.html:
+    newFile: !uuid 'cddad1d6b706a0bdf29a52ae9976adb1234a4341'
+    oldFile: null
+  /dist/alien_invasion/pygame/rect.cp37-win_amd64.pyd:
+    newFile: !uuid '4a7400d88aaaff686eacb96cd6a5e99a1a90fa8c'
+    oldFile: null
+  /dist/alien_invasion/pygame/rwobject.cp37-win_amd64.pyd:
+    newFile: !uuid 'b941f66fc4ed164c43bb15c49988fcc5760d8a1f'
+    oldFile: null
+  /dist/alien_invasion/pygame/scrap.cp37-win_amd64.pyd:
+    newFile: !uuid '25575ee58ffe608a0559db074c97a32396dc56be'
+    oldFile: null
+  /dist/alien_invasion/pygame/sndarray.py:
+    newFile: !uuid 'd45517a00b7c4abcc5eb539744573b04e034353c'
+    oldFile: null
+  /dist/alien_invasion/pygame/sprite.py:
+    newFile: !uuid '9261d050bb501d2ae94771907e3f429b342bb463'
+    oldFile: null
+  /dist/alien_invasion/pygame/surface.cp37-win_amd64.pyd:
+    newFile: !uuid 'bb6ef1835c25e293eb66fa3c48ea351035e80d6a'
+    oldFile: null
+  /dist/alien_invasion/pygame/surfarray.py:
+    newFile: !uuid '91446d77a8d90257a80f6fc64cde9d4f3cc0c79e'
+    oldFile: null
+  /dist/alien_invasion/pygame/surflock.cp37-win_amd64.pyd:
+    newFile: !uuid '0af44a472c81e6f3cd1b65aebb75e91c0496bedc'
+    oldFile: null
+  /dist/alien_invasion/pygame/sysfont.py:
+    newFile: !uuid '69c11af6ddb59fc2e700b5d557bd96953f36200e'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests:
+    newFile: !uuid '09a4e1549ee1062b9266e6bee14f60e3ebe84c4d'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/__init__.py:
+    newFile: !uuid '48cfdcead7be1dafbbcbac688621444493bf6544'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/__main__.py:
+    newFile: !uuid '01564550b0faba9d1bb64864b4fb47a40f3f3a13'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/base_test.py:
+    newFile: !uuid '3e3a81f95ce2450c2e8b6fc4d3d09ab10afa21d1'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/blit_test.py:
+    newFile: !uuid '5ff3f9ad04301c59049f49d714a272fa0035ad9b'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/bufferproxy_test.py:
+    newFile: !uuid '3ca32e87c7dcc24d7f8bdee7dba9c45610503606'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/camera_test.py:
+    newFile: !uuid '74acfd5b20c0ff124d879d92d9e0db439a1be217'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/cdrom_tags.py:
+    newFile: !uuid 'c6c945490ffc08401e71b34b9f1382ddec4aba4d'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/cdrom_test.py:
+    newFile: !uuid 'e0447a2c7aae623ece6cf57890b602a4b96f447e'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/color_test.py:
+    newFile: !uuid '6655999771d6ed3c44d146fa63a92737ece75c0a'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/compat_test.py:
+    newFile: !uuid 'a1af376c7f83bc8e844c56e272c23a3e305e2783'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/cursors_test.py:
+    newFile: !uuid 'c201a6947eec403c644eb16c2989bf9dffd6a6f4'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/display_test.py:
+    newFile: !uuid '5650911489955be506711f3de887f8a5ce1cb902'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/draw_test.py:
+    newFile: !uuid '3870ebad800719446f231ce12026055fc02bdf35'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/event_test.py:
+    newFile: !uuid '26656b9ee7ec5fe3fb0bbd192891ead8e3e19079'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fastevent_test.py:
+    newFile: !uuid '805bc9d9cc0f528699c14575ef97d5903e09c7d6'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fixtures:
+    newFile: !uuid '7efb4c26ef8c5998b96fca6342332846c52b4fb3'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fixtures/fonts:
+    newFile: !uuid 'bcf7cff3ce278c5775cc6d92f1ddd14b59dcb559'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fixtures/fonts/A_PyGameMono-8.png:
+    newFile: !uuid 'b15961f08bce5b630952beb840bda9dab3db338f'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fixtures/fonts/PyGameMono-18-100dpi.bdf:
+    newFile: !uuid 'a88f083e99ab3a94c4943320b6c232c09e505172'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fixtures/fonts/PyGameMono-18-75dpi.bdf:
+    newFile: !uuid '127f70430d8742e40a1fec33e269cdcafd4e3c5c'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fixtures/fonts/PyGameMono-8.bdf:
+    newFile: !uuid '17bef0641505df7de0fbae077e14cb732100b6c9'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fixtures/fonts/PyGameMono.otf:
+    newFile: !uuid '5e9b66cc1a575a0cb5d3cfdd35d6587ade9f617f'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fixtures/fonts/test_fixed.otf:
+    newFile: !uuid '348889828d894b9b57fb6435497d5c034448cb1b'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fixtures/fonts/test_sans.ttf:
+    newFile: !uuid '09fac2ff94ae92033266d8e021c22c382bea19b5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fixtures/fonts/u13079_PyGameMono-8.png:
+    newFile: !uuid '911da8a6cf8238dccacdddce217744446e508b6a'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fixtures/xbm_cursors:
+    newFile: !uuid '60ba0ca77d15f8e74e93a87e014232236f5a42bd'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fixtures/xbm_cursors/white_sizing.xbm:
+    newFile: !uuid 'd334d8dcde3dd471af5318bba543ff80ce842fd5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/fixtures/xbm_cursors/white_sizing_mask.xbm:
+    newFile: !uuid 'f00bc46ab7cb540b634485af1bc18c4eafe37238'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/font_tags.py:
+    newFile: !uuid '8a5dca582936026044b4371c33b3d57ce3a98682'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/font_test.py:
+    newFile: !uuid 'fdc3df5ff13ea590042c1e49453b7af49ebddec8'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/freetype_tags.py:
+    newFile: !uuid '5c56fc3f9bb7e11a34e8324a37b39a59e87ff70c'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/freetype_test.py:
+    newFile: !uuid 'cdf77ac3e36ece2a06f0fdfae37a26661c5046d5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/ftfont_tags.py:
+    newFile: !uuid '5e17673e9677f69790c64a4a0a47b2be9b0993f9'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/ftfont_test.py:
+    newFile: !uuid 'd15a1803f7ab1d6baff01808f8a6a04df1ad5a7d'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/gfxdraw_test.py:
+    newFile: !uuid '110fda97b02f4419eee7c360732e2b2f50285fed'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/image__save_gl_surface_test.py:
+    newFile: !uuid '5585ad734af5fd4d54eda77855c2d3a1c6bf0387'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/image_tags.py:
+    newFile: !uuid '3f6c18199eea0248f0b48b26f0cf7fc97eba4e98'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/image_test.py:
+    newFile: !uuid '96ca2c5e2b97b3ca7c3dc2b4aec4e9e0e8f82880'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/imageext_tags.py:
+    newFile: !uuid '60df1da312051ba6d796b1ff7140912a63d88cc9'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/imageext_test.py:
+    newFile: !uuid '2020e203ec210ddab2ec3faa6112f4f2a4afea14'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/joystick_test.py:
+    newFile: !uuid '44f72dd4a489643f57130810c7fcac779cd425fa'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/key_test.py:
+    newFile: !uuid 'f65121ab56f22eecf399cb124d1298c61e7ce006'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/mask_test.py:
+    newFile: !uuid 'ddef66910e86d08929c70604376baeb06f24f9de'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/math_test.py:
+    newFile: !uuid '7d0e96b353a08c72f817db814833ba8642cd9d10'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/midi_tags.py:
+    newFile: !uuid 'c6c945490ffc08401e71b34b9f1382ddec4aba4d'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/midi_test.py:
+    newFile: !uuid 'caf72efdcc61bccf70faaea1d89401bae92e7216'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/mixer_music_tags.py:
+    newFile: !uuid 'a131d09a460f426887ade7da11a8e52f26dffaeb'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/mixer_music_test.py:
+    newFile: !uuid 'd068d8f49c77f4f8eacf42a22d69b36e5cc72550'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/mixer_tags.py:
+    newFile: !uuid '7cba721f0a8b576616cc4d0808544973f16a6d93'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/mixer_test.py:
+    newFile: !uuid '6186da111183f1774d5b8f9edd5ba8a0c3a3964c'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/mouse_test.py:
+    newFile: !uuid 'b238c655a4066da7418970905e496e73d8fa2a21'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/overlay_test.py:
+    newFile: !uuid 'b3693064999ad38e9529d41a7df8a857eb017cf9'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/pixelarray_test.py:
+    newFile: !uuid 'bf50177bc9a6bed90fb59f99836f00a88b387ef6'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/pixelcopy_test.py:
+    newFile: !uuid '4df8beea8a632856dcfc3f5be927c301b4d1a3eb'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/rect_test.py:
+    newFile: !uuid '71a0ef772442fbb037f980f3e7a026f9835cb019'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests:
+    newFile: !uuid '491d6186b269a6c0fdebcbb9e776b314f2957cdd'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/__init__.py:
+    newFile: !uuid '1bb8bf6d7fd4c8d09aea89b47de20fb8bbb61626'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/all_ok:
+    newFile: !uuid 'f28d09e5240c62fff32f34295ba3ca8e4f07aef3'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/all_ok/__init__.py:
+    newFile: !uuid '1bb8bf6d7fd4c8d09aea89b47de20fb8bbb61626'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/all_ok/fake_2_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/all_ok/fake_3_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/all_ok/fake_4_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/all_ok/fake_5_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/all_ok/fake_6_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/all_ok/no_assertions__ret_code_of_1__test.py:
+    newFile: !uuid 'd3545e3e7084e6e617562d0659c77fb52ecaf28e'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/all_ok/zero_tests_test.py:
+    newFile: !uuid 'c4ded952de3d0bcda8e78c38a383b0a4f1cc78fd'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/everything:
+    newFile: !uuid '6e7e0b4889698ac710c35cfd361f1ee44feff7e9'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/everything/__init__.py:
+    newFile: !uuid '1bb8bf6d7fd4c8d09aea89b47de20fb8bbb61626'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/everything/fake_2_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/everything/incomplete_todo_test.py:
+    newFile: !uuid 'cdc597a54baca4b09900406335d3264b67bdc43a'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/everything/magic_tag_test.py:
+    newFile: !uuid '1f526b2c746ea355234f5c557ad837864a3a6d74'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/everything/sleep_test.py:
+    newFile: !uuid 'be6c545268653505dd3f30fad88f352de4e3d140'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/exclude:
+    newFile: !uuid 'ecd5e743f2a17943cfc403fb31d067c6fd675b83'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/exclude/__init__.py:
+    newFile: !uuid '1bb8bf6d7fd4c8d09aea89b47de20fb8bbb61626'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/exclude/fake_2_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/exclude/invisible_tag_test.py:
+    newFile: !uuid '290833ddc1118f8c630546469676ff4a4b55b57d'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/exclude/magic_tag_test.py:
+    newFile: !uuid '1f526b2c746ea355234f5c557ad837864a3a6d74'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/failures1:
+    newFile: !uuid '5c15d7569bcfea1d53e1b78cd4f4ac9626fa4f91'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/failures1/__init__.py:
+    newFile: !uuid '1bb8bf6d7fd4c8d09aea89b47de20fb8bbb61626'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/failures1/fake_2_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/failures1/fake_3_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/failures1/fake_4_test.py:
+    newFile: !uuid 'caa5c022a20744978ac3c351e2148b719f5b36b3'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/incomplete:
+    newFile: !uuid '9cb8b96ac3ffb9016ef81e603ba344e6cdaf2254'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/incomplete/__init__.py:
+    newFile: !uuid '1bb8bf6d7fd4c8d09aea89b47de20fb8bbb61626'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/incomplete/fake_2_test.py:
+    newFile: !uuid '8b69ebc9a088ac3adec7e62277639ac01f900c00'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/incomplete/fake_3_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/incomplete_todo:
+    newFile: !uuid 'fd2f0e2f7b40c0a8954120ff87135405e8b3f772'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/incomplete_todo/__init__.py:
+    newFile: !uuid '1bb8bf6d7fd4c8d09aea89b47de20fb8bbb61626'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/incomplete_todo/fake_2_test.py:
+    newFile: !uuid 'cdc597a54baca4b09900406335d3264b67bdc43a'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/incomplete_todo/fake_3_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/infinite_loop:
+    newFile: !uuid '821baf4133cfca76e703f920a1bce02fba63c398'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/infinite_loop/__init__.py:
+    newFile: !uuid '1bb8bf6d7fd4c8d09aea89b47de20fb8bbb61626'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/infinite_loop/fake_1_test.py:
+    newFile: !uuid 'ec7a2843527aabde2fa9b131e156dabadd004122'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/infinite_loop/fake_2_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/print_stderr:
+    newFile: !uuid '7643802847d861d492bf14c7332b425b5fd8df82'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/print_stderr/__init__.py:
+    newFile: !uuid '1bb8bf6d7fd4c8d09aea89b47de20fb8bbb61626'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/print_stderr/fake_2_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/print_stderr/fake_3_test.py:
+    newFile: !uuid '5ddedcd42b48ff4b2fb2cf40dcc30a40670069f5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/print_stderr/fake_4_test.py:
+    newFile: !uuid 'caa5c022a20744978ac3c351e2148b719f5b36b3'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/print_stdout:
+    newFile: !uuid '44cae24eed0f7c2c71805195bdd449bf9f92ff4f'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/print_stdout/__init__.py:
+    newFile: !uuid '1bb8bf6d7fd4c8d09aea89b47de20fb8bbb61626'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/print_stdout/fake_2_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/print_stdout/fake_3_test.py:
+    newFile: !uuid '57e559f17116c925c9f50667c519f1d3f9c30fdc'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/print_stdout/fake_4_test.py:
+    newFile: !uuid 'caa5c022a20744978ac3c351e2148b719f5b36b3'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/run_tests__test.py:
+    newFile: !uuid 'db6736a9affae792974c233383882302d7d5aef0'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/timeout:
+    newFile: !uuid '13aa97c915a451040cc1944eebe25e34ab9b74ce'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/timeout/__init__.py:
+    newFile: !uuid '1bb8bf6d7fd4c8d09aea89b47de20fb8bbb61626'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/timeout/fake_2_test.py:
+    newFile: !uuid '2f9d5908729b0428e756e68e2cdd47792a2fd9c5'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/run_tests__tests/timeout/sleep_test.py:
+    newFile: !uuid 'be6c545268653505dd3f30fad88f352de4e3d140'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/rwobject_test.py:
+    newFile: !uuid '29f5a6587291a0f1ca34d964e1740319efbd6e0a'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/scrap_tags.py:
+    newFile: !uuid 'f35e558eb3b54b9c632195cc5a8809069f0848e9'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/scrap_test.py:
+    newFile: !uuid 'a5565c3d2a94cd0bb15dd4ce4d0e99851f8878b1'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/sndarray_tags.py:
+    newFile: !uuid '6493eb2850b7409f6f4997adf6cae4b8735837c4'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/sndarray_test.py:
+    newFile: !uuid '657447c6bc02a026354cebddb780c89aa36d678d'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/sprite_test.py:
+    newFile: !uuid '5fa7a8880987466ebca85d65694000c78aca9e6e'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/surface_test.py:
+    newFile: !uuid '996e6a9794293cbba0114b24016e969d04171fc2'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/surfarray_tags.py:
+    newFile: !uuid '132d559955ca9b5a48ae55f49bb1f140a7efb90e'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/surfarray_test.py:
+    newFile: !uuid '580619cccd656be7c857ca39b9adf505484c4742'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/surflock_test.py:
+    newFile: !uuid 'f8e888a46b071ad78240d9b1207056148cba3b3c'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/sysfont_test.py:
+    newFile: !uuid '136cefbde041f4702801fdd95804b3630201f4e8'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/test_test_.py:
+    newFile: !uuid '5708909f6c4c2ea33029cf14e5688b1127d471cc'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/test_utils:
+    newFile: !uuid '98af7b3f97d073a8fb52c2b9190b3dd889e1aeed'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/test_utils/__init__.py:
+    newFile: !uuid '1f43aa0076d50256b8bef5569a06b4f67e766baa'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/test_utils/arrinter.py:
+    newFile: !uuid '8c4046ade0bd6b0850f3b06d5874aa1fecbedb15'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/test_utils/async_sub.py:
+    newFile: !uuid 'e43d4b9591550f22252d2a842751998f976b88a9'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/test_utils/buftools.py:
+    newFile: !uuid '1e2ab937b66dc109b88acd9db566b96dce5b17d1'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/test_utils/endian.py:
+    newFile: !uuid 'ae8fc199505d73314c95e7a0c725a82cc31b4f5d'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/test_utils/png.py:
+    newFile: !uuid 'd0fba05a1750f3a57812166846ab4dafc45c46fd'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/test_utils/run_tests.py:
+    newFile: !uuid '18514c4e41dabe65af416fb26c7ae0af28776530'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/test_utils/test_machinery.py:
+    newFile: !uuid '6d548fc4106865c84d17e637b87db7e7488047de'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/test_utils/test_runner.py:
+    newFile: !uuid 'a493dae777ea61ee3d8411c426872b6df8591839'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/threads_test.py:
+    newFile: !uuid '4c77887d1dde35fb82df5e75ec21c3066b56ed3c'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/time_test.py:
+    newFile: !uuid '1a1dfa67b7f3985392f7744d9763c943300a53e8'
+    oldFile: null
+  /dist/alien_invasion/pygame/tests/transform_test.py:
+    newFile: !uuid 'e4341263200ff3a8b79bb7fe832768c7cab17aa8'
+    oldFile: null
+  /dist/alien_invasion/pygame/threads:
+    newFile: !uuid 'df081bda94b74adc2688e20dfafa5221248e76ed'
+    oldFile: null
+  /dist/alien_invasion/pygame/threads/Py25Queue.py:
+    newFile: !uuid '603c1bd2028ff14aa1e8f00efc490f9cb277d685'
+    oldFile: null
+  /dist/alien_invasion/pygame/threads/__init__.py:
+    newFile: !uuid 'cc4f9cfd189bc5fb332a4f242c0c4e3563e66c52'
+    oldFile: null
+  /dist/alien_invasion/pygame/time.cp37-win_amd64.pyd:
+    newFile: !uuid '5546333e5b5dc1541007f3f883715b7e7912134e'
+    oldFile: null
+  /dist/alien_invasion/pygame/transform.cp37-win_amd64.pyd:
+    newFile: !uuid '4866ad0802a564c28b339a14a0a925ee0b53b838'
+    oldFile: null
+  /dist/alien_invasion/pygame/version.py:
+    newFile: !uuid '0600fd4365ba74709e34f6c9f62007b70c94ad5b'
+    oldFile: null
+  /dist/alien_invasion/pygame/zlib1.dll:
+    newFile: !uuid '2d3b770495f205757cc2ad299d34d0119979e20a'
+    oldFile: null
+  /dist/alien_invasion/python37.dll:
+    newFile: !uuid '8f4407aa71d2aa50ec1b0de41f7fe6e95dc2df29'
+    oldFile: null
+  /dist/alien_invasion/select.pyd:
+    newFile: !uuid 'f04394debd34624f644cfcc507b53a52b0a43b39'
+    oldFile: null
+  /dist/alien_invasion/unicodedata.pyd:
+    newFile: !uuid 'a38e859d83c91fae722791539b9b9c9f27261ab0'
+    oldFile: null
+  /game_functions.py:
+    newFile: !uuid '1c06d016219600332903e9d21f78771fb0dfe839'
+    oldFile: null
+  /game_stats.py:
+    newFile: !uuid 'dc0bc4014cafb9df2e5270a24e6162c1d574c9e0'
+    oldFile: null
+  /images:
+    newFile: !uuid 'b092cc12f61d771f520ffed4fa8b25813694f027'
+    oldFile: null
+  /images/alien.png:
+    newFile: !uuid '458695600f53bddd5c6552c47b3d8ad1b64f6f6c'
+    oldFile: null
+  /images/ship.bmp:
+    newFile: !uuid 'a140654143739b4d39331a37ed52ed6cf721491a'
+    oldFile: null
+  /scoreboard.py:
+    newFile: !uuid '72740153c3d78b3a2bdac48321ca1389ab8def5a'
+    oldFile: null
+  /settings.py:
+    newFile: !uuid '30fcc6bd779206c91189a141701ea5e035b5dda9'
+    oldFile: null
+  /ship.py:
+    newFile: !uuid 'eb8f66c7e8dd55bc7e32ce41322629fc3801dbd0'
+    oldFile: null
+  /新建文本文档.txt:
+    newFile: !uuid '12571acbd688cb712cd5ddf1af6281543aee6ca6'
+    oldFile: null
+gitCommitId: !uuid 'cc031ba693f5fe703122d9286fa0fb28f8117af2'
 renames: {
   }
-revisionId: 1
+revisionId: 2
