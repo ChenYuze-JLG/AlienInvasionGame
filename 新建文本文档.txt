@@ -1,0 +1,1 @@
+pyinstaller alien_invasion.py -p alien.py -p bullet.py -p button.py -p settings.py -p scoreboard.py -p ship.py -p game_stats.py -p game_functions.py
